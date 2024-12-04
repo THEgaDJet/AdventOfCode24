@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "C#: Day1",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Day1/Day1.csproj",
+            "launchConfigurationId": "TargetFramework=;Day1"
+        },
+        {
+            "name": "C#: Day2",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}/Day2/Day2.csproj",
+            "launchConfigurationId": "TargetFramework=;Day2"
+        },
+        {
+            "name": "C#: Day3",
+            "type": "dotnet",
+            "request": "launch",
+            // "projectPath": "${workspaceFolder}/Day3/${relativeFileDirname}.csproj",
+            "projectPath": "${workspaceFolder}/Day3/Day3.csproj",
+            "launchConfigurationId": "TargetFramework=;Day3"
+        }
+    ]
+}
